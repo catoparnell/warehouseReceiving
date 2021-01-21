@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ManagedForm databaseName="xactdev" fileVersion="23200" gstVersion="23219" name="managedform" uid="{98b23041-da35-4b61-b777-5cbd0c8665a7}">
+  <AGSettings>
+    <DynamicProperties version="2">
+      <DynamicProperty description="dashboard test table" initialValue="" isDefaultInherited="false" isHidden="false" label="testtable" name="webcomponent.Dashboards_POC.testtable" readOnly="false" type="TEXT"/>
+      <DynamicProperty description="values" initialValue="" isDefaultInherited="false" isHidden="false" label="value" name="webcomponent.Dashboards_POC.values" readOnly="false" type="STRINGLIST"/>
+      <DynamicProperty description="caption" initialValue="" isDefaultInherited="false" isHidden="false" label="caption" name="webcomponent.chart.caption" readOnly="false" type="TEXT"/>
+      <DynamicProperty description="labels" initialValue="" isDefaultInherited="false" isHidden="false" label="labels" name="webcomponent.chart.labels" readOnly="false" type="STRINGLIST"/>
+      <DynamicProperty description="number prefix" initialValue="" isDefaultInherited="false" isHidden="false" label="numberPrefix" name="webcomponent.chart.numberPrefix" readOnly="false" type="TEXT"/>
+      <DynamicProperty description="subcaption" initialValue="" isDefaultInherited="false" isHidden="false" label="subcaption" name="webcomponent.chart.subcaption" readOnly="false" type="TEXT"/>
+      <DynamicProperty description="type of chart" initialValue="" isDefaultInherited="false" isHidden="false" label="type" name="webcomponent.chart.type" readOnly="false" type="TEXT"/>
+      <DynamicProperty description="values" initialValue="" isDefaultInherited="false" isHidden="false" label="value" name="webcomponent.chart.values" readOnly="false" type="STRINGLIST"/>
+      <DynamicProperty description="label of X axis" initialValue="" isDefaultInherited="false" isHidden="false" label="X label" name="webcomponent.chart.xaxisname" readOnly="false" type="TEXT"/>
+      <DynamicProperty description="label of Y axis" initialValue="" isDefaultInherited="false" isHidden="false" label="Y label" name="webcomponent.chart.yaxisname" readOnly="false" type="TEXT"/>
+      <DynamicProperty description="caption" initialValue="" isDefaultInherited="false" isHidden="false" label="caption" name="webcomponent.fusioncharts.caption" readOnly="false" type="TEXT"/>
+      <DynamicProperty description="labels" initialValue="" isDefaultInherited="false" isHidden="false" label="labels" name="webcomponent.fusioncharts.labels" readOnly="false" type="STRINGLIST"/>
+      <DynamicProperty description="number prefix" initialValue="" isDefaultInherited="false" isHidden="false" label="numberPrefix" name="webcomponent.fusioncharts.numberPrefix" readOnly="false" type="TEXT"/>
+      <DynamicProperty description="subcaption" initialValue="" isDefaultInherited="false" isHidden="false" label="subcaption" name="webcomponent.fusioncharts.subcaption" readOnly="false" type="TEXT"/>
+      <DynamicProperty description="type of chart" initialValue="" isDefaultInherited="false" isHidden="false" label="type" name="webcomponent.fusioncharts.type" readOnly="false" type="TEXT"/>
+      <DynamicProperty description="values" initialValue="" isDefaultInherited="false" isHidden="false" label="value" name="webcomponent.fusioncharts.values" readOnly="false" type="STRINGLIST"/>
+      <DynamicProperty description="label of X axis" initialValue="" isDefaultInherited="false" isHidden="false" label="X label" name="webcomponent.fusioncharts.xaxisname" readOnly="false" type="TEXT"/>
+      <DynamicProperty description="label of Y axis" initialValue="" isDefaultInherited="false" isHidden="false" label="Y label" name="webcomponent.fusioncharts.yaxisname" readOnly="false" type="TEXT"/>
+      <DynamicProperty description="values" initialValue="" isDefaultInherited="false" isHidden="false" label="value" name="webcomponent.googlecharts.dataset1" readOnly="false" type="STRINGLIST"/>
+      <DynamicProperty description="values" initialValue="" isDefaultInherited="false" isHidden="false" label="value" name="webcomponent.googlecharts.dataset2" readOnly="false" type="STRINGLIST"/>
+      <DynamicProperty description="values" initialValue="" isDefaultInherited="false" isHidden="false" label="value" name="webcomponent.googlecharts.dataset3" readOnly="false" type="STRINGLIST"/>
+      <DynamicProperty description="labels" initialValue="" isDefaultInherited="false" isHidden="false" label="labels" name="webcomponent.googlecharts.labels" readOnly="false" type="STRINGLIST"/>
+      <DynamicProperty description="chart caption" initialValue="" isDefaultInherited="false" isHidden="false" label="caption" name="webcomponent.googlecharts.set1" readOnly="false" type="TEXT"/>
+      <DynamicProperty description="chart caption" initialValue="" isDefaultInherited="false" isHidden="false" label="caption" name="webcomponent.googlecharts.set2" readOnly="false" type="TEXT"/>
+      <DynamicProperty description="chart caption" initialValue="" isDefaultInherited="false" isHidden="false" label="caption" name="webcomponent.googlecharts.set3" readOnly="false" type="TEXT"/>
+      <DynamicProperty description="chart caption" initialValue="" isDefaultInherited="false" isHidden="false" label="caption" name="webcomponent.googlecharts.title" readOnly="false" type="TEXT"/>
+      <DynamicProperty description="type of chart" initialValue="" isDefaultInherited="false" isHidden="false" label="type" name="webcomponent.googlecharts.type" readOnly="false" type="TEXT"/>
+      <DynamicProperty description="caption" initialValue="" isDefaultInherited="false" isHidden="false" label="caption" name="webcomponent.st125_sales_history.caption" readOnly="false" type="TEXT"/>
+      <DynamicProperty description="labels" initialValue="" isDefaultInherited="false" isHidden="false" label="labels" name="webcomponent.st125_sales_history.labels" readOnly="false" type="STRINGLIST"/>
+      <DynamicProperty description="number prefix" initialValue="" isDefaultInherited="false" isHidden="false" label="numberPrefix" name="webcomponent.st125_sales_history.numberPrefix" readOnly="false" type="TEXT"/>
+      <DynamicProperty description="subcaption" initialValue="" isDefaultInherited="false" isHidden="false" label="subcaption" name="webcomponent.st125_sales_history.subcaption" readOnly="false" type="TEXT"/>
+      <DynamicProperty description="type of chart" initialValue="" isDefaultInherited="false" isHidden="false" label="type" name="webcomponent.st125_sales_history.type" readOnly="false" type="TEXT"/>
+      <DynamicProperty description="values" initialValue="" isDefaultInherited="false" isHidden="false" label="value" name="webcomponent.st125_sales_history.values" readOnly="false" type="STRINGLIST"/>
+      <DynamicProperty description="label of X axis" initialValue="" isDefaultInherited="false" isHidden="false" label="X label" name="webcomponent.st125_sales_history.xaxisname" readOnly="false" type="TEXT"/>
+      <DynamicProperty description="label of Y axis" initialValue="" isDefaultInherited="false" isHidden="false" label="Y label" name="webcomponent.st125_sales_history.yaxisname" readOnly="false" type="TEXT"/>
+      <DynamicProperty description="type of chart" initialValue="wc_acroread.html" isDefaultInherited="false" isHidden="false" label="myurl" name="webcomponent.wc_acroread.myurl" readOnly="false" type="TEXT"/>
+      <DynamicProperty description="type of chart" initialValue="wc_html_previewer.html" isDefaultInherited="false" isHidden="false" label="myurl" name="webcomponent.wc_html_previewer.myurl" readOnly="false" type="TEXT"/>
+      <DynamicProperty description="type of chart" initialValue="" isDefaultInherited="false" isHidden="false" label="myurl" name="webcomponent.wc_it_help_desk.myurl" readOnly="false" type="TEXT"/>
+      <DynamicProperty description="type of chart" initialValue="" isDefaultInherited="false" isHidden="false" label="type" name="webcomponent.wc_it_help_desk.type" readOnly="false" type="TEXT"/>
+    </DynamicProperties>
+    <NodeInfos version="1">
+      <NodeInfo mimeType="modFD/WebComponent" properties="webcomponent.chart.type;webcomponent.chart.caption;webcomponent.chart.subcaption;webcomponent.chart.xaxisname;webcomponent.chart.yaxisname;webcomponent.chart.numberPrefix;webcomponent.chart.labels;webcomponent.chart.values;webcomponent.Dashboards_POC.testtable;webcomponent.Dashboards_POC.values;webcomponent.fusioncharts.type;webcomponent.fusioncharts.caption;webcomponent.fusioncharts.subcaption;webcomponent.fusioncharts.xaxisname;webcomponent.fusioncharts.yaxisname;webcomponent.fusioncharts.numberPrefix;webcomponent.fusioncharts.labels;webcomponent.fusioncharts.values;webcomponent.googlecharts.type;webcomponent.googlecharts.title;webcomponent.googlecharts.set1;webcomponent.googlecharts.set2;webcomponent.googlecharts.set3;webcomponent.googlecharts.labels;webcomponent.googlecharts.dataset1;webcomponent.googlecharts.dataset2;webcomponent.googlecharts.dataset3;webcomponent.st125_sales_history.type;webcomponent.st125_sales_history.caption;webcomponent.st125_sales_history.subcaption;webcomponent.st125_sales_history.xaxisname;webcomponent.st125_sales_history.yaxisname;webcomponent.st125_sales_history.numberPrefix;webcomponent.st125_sales_history.labels;webcomponent.st125_sales_history.values;webcomponent.wc_acroread.myurl;webcomponent.wc_html_previewer.myurl;webcomponent.wc_it_help_desk.type;webcomponent.wc_it_help_desk.myurl"/>
+    </NodeInfos>
+  </AGSettings>
+  <Record additionalTables="" joinLeft="" joinOperator="" joinRight="" name="reports" order="" uid="{dc6f5456-c66a-4582-ae82-6af010ba9ee2}" where="">
+    <RecordField colName="" fieldIdRef="1" length="1" name="tick" sqlTabName="" sqlType="CHAR" table_alias_name="" uid="{8bdfd020-65bf-4d3f-b63a-ff94d8811367}"/>
+    <RecordField colName="user_name" fieldIdRef="3" fieldType="COLUMN_LIKE" name="user_name" sqlTabName="st40u_warehouse_user" table_alias_name="" uid="{ccf32cfd-520e-46b5-b355-179134992e8b}"/>
+    <RecordField colName="" fieldIdRef="2" name="type" sqlTabName="" sqlType="CHAR" table_alias_name="" uid="{e2bb40a0-efff-4467-8f2c-be084e09926a}"/>
+    <RecordField colName="whs_status" fieldIdRef="4" fieldType="COLUMN_LIKE" name="whs_status" sqlTabName="st40u_warehouse_user" table_alias_name="" uid="{a382826d-9f9d-4fcb-879e-66e3f3277ce1}"/>
+  </Record>
+  <Record additionalTables="" joinLeft="" joinOperator="" joinRight="" name="record1" order="" uid="{33fa3aca-752c-4d4c-b94e-a90863862daa}" where=""/>
+  <Record additionalTables="" joinLeft="" joinOperator="" joinRight="" name="Undefined" order="" uid="{471cceeb-e135-4046-a1bc-485ae6fd80cd}" where="">
+    <RecordField colName="" fieldIdRef="5" name="warehouse_enq_lbl" sqlTabName="" table_alias_name="" uid="{b4664ece-ed34-49fe-b8ec-937a33e50e01}"/>
+  </Record>
+  <Form fourSTFile="../../../xsrce/etc/xact.4st" gridHeight="18" gridWidth="45" name="select_type" text="Select Document Type" windowStyle="reports">
+    <Grid gridHeight="16" gridWidth="42" name="grid1" posX="1" posY="1">
+      <FFLabel aggregateColName="" aggregateName="" aggregateTableAliasName="" aggregateTableName="" colName="" columnCount="" fieldId="5" gridHeight="1" gridWidth="39" justify="center" name="warehouse_enq_lbl" posX="1" posY="1" rowCount="" sqlTabName="" stepX="" stepY="" style="title" table_alias_name="" title="fflabel1" widget="FFLabel"/>
+      <Table gridHeight="13" gridWidth="39" name="reports" posX="1" posY="2" totalRows="9">
+        <Phantom colName="whs_status" fieldId="4" fieldType="COLUMN_LIKE" name="whs_status" sqlTabName="st40u_warehouse_user" table_alias_name="" widget="Phantom"/>
+        <Phantom colName="user_name" fieldId="3" fieldType="COLUMN_LIKE" name="user_name" sqlTabName="st40u_warehouse_user" table_alias_name="" widget="Phantom"/>
+        <CheckBox aggregateColName="" aggregateName="" aggregateTableAliasName="" aggregateTableName="" colName="" columnCount="" fieldId="1" gridHeight="1" gridWidth="3" length="1" name="tick" notNull="true" posX="0" posY="0" rowCount="" sqlTabName="" sqlType="CHAR" stepX="" stepY="" tabIndex="1" table_alias_name="" text="" title="" widget="CheckBox"/>
+        <Edit aggregateColName="" aggregateName="" aggregateTableAliasName="" aggregateTableName="" colName="" columnCount="" fieldId="2" gridHeight="1" gridWidth="33" name="type" noEntry="true" posX="3" posY="0" rowCount="" scroll="true" sqlTabName="" sqlType="CHAR" stepX="" stepY="" tabIndex="2" table_alias_name="" title="Selection" widget="Edit"/>
+      </Table>
+    </Grid>
+  </Form>
+  <DiagramLayout>
+    <![CDATA[AAAAAgAAAEwAewA4AGIAZABmAGQAMAAyADAALQA2ADUAYgBmAC0ANABkADMAZgAtAGIANgAzAGEALQBmAGYAOQA0AGQAOAA4ADEAMQAzADYANwB9QCQAAAAAAABAQwAAAAAAAAAAAAAAAAAAAQAAAEwAewBhADMAOAAyADgAMgA2AGQALQA5AGYAOQBkAC0ANABmAGMAYgAtADgANwA5AGUALQA2ADYAZQAzAGYAMwAyADcANwBjAGUAMQB9QCQAAAAAAABAWsAAAAAAAD+Ik3S8an78AQAAAEwAewBjAGMAZgAzADIAYwBmAGQALQA1ADIAMABlAC0ANAA2AGIANQAtAGIAMwA1ADUALQAxADcAOQAxADMANAA5ADkAMgBlADgAYgB9QCQAAAAAAABAToAAAAAAAAAAAAAAAAAAAQAAAEwAewBlADIAYgBiADQAMABhADAALQBlAGYAZgBmAC0ANAA0ADYANwAtADgAZgAyAGMALQBiAGUAMAA4ADQAZQAwADkAOQAyADYAYQB9QCQAAAAAAABAVQAAAAAAAD+EeuFHrhR8AQAAAEwAewBkAGMANgBmADUANAA1ADYALQBjADYANgBhAC0ANAA1ADgAMgAtAGEAZQA4ADIALQA2AGEAZgAwADEAMABiAGEAOQBlAGUAMgB9wICgAAAAAADAV0AAAAAAAD+Kn752yLQ8AQAAAEwAewA0ADcAMQBjAGMAZQBlAGIALQBlADEAMwA1AC0ANAAwADQANgAtAGEAMQBiAGMALQA0ADgANQBhAGUANgBmAGQAOAAwAGMAZAB9wHCAAAAAAADANwAAAAAAAAAAAAAAAAAAAQAAAEwAewAzADMAZgBhADMAYQBjAGEALQA3ADUAMgBjAC0ANABkADQAYwAtAGIAOQA0AGUALQBhADkAMAA4ADYAMwA4ADYAMgBkAGEAYQB9QCAAAAAAAADAPgAAAAAAAD90euFHrhR7AQAAAEwAewBiADQANgA2ADQAZQBjAGUALQBlAGQAMwA0AC0ANAA5AGYAZQAtAGIAOABlAGMALQA5ADMANwBhADMAMwBlADUAMABlADAAMQB9QCQAAAAAAABAQwAAAAAAAAAAAAAAAAAAAQ==]]>
+  </DiagramLayout>
+</ManagedForm>
